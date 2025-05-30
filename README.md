@@ -62,7 +62,7 @@ The PostgreSQL and Redis data are now stored in local directories within the pro
    ```bash
    # On source PC
    tar -czf NutritionRecipe-project.tar.gz /path/to/NutritionRecipe-assessment/
-   
+
    # Transfer to new PC and extract
    tar -xzf NutritionRecipe-project.tar.gz
    ```
@@ -311,7 +311,7 @@ docker compose -f docker-compose.yml -f docker-compose.test.yml down -v
 
 The Docker test environment uses:
 - **PostgreSQL**: `nutritionrecipe_test` database on port 5433
-- **Redis**: Test Redis instance on port 6380  
+- **Redis**: Test Redis instance on port 6380
 - **Environment Variables**: `TESTING=true`, `ENVIRONMENT=test`
 - **Service Coordination**: Automatic waiting for services to be ready
 - **Data Isolation**: Separate volumes for test data
@@ -329,7 +329,7 @@ The test suite includes:
 ### Test Coverage
 The test suite covers:
 - ✅ API endpoint functionality
-- ✅ Recipe creation and retrieval  
+- ✅ Recipe creation and retrieval
 - ✅ Cost and nutrition calculations
 - ✅ Ingredient substitution algorithms
 - ✅ Redis caching functionality
@@ -357,11 +357,33 @@ docker compose exec recipe-api pytest test_main.py -v
 - **Nginx**: Reverse proxy (production)
 
 ### ML Algorithm for Substitution
-The ingredient substitution system uses:
-1. **Feature Extraction**: Nutritional values (energy, carb, protein, fat, sugar, fiber)
-2. **Standardization**: Features are scaled using StandardScaler
-3. **Similarity Calculation**: Cosine similarity between ingredient feature vectors
-4. **Ranking**: Top-K most similar ingredients are returned as substitutes
+The ingredient substitution system uses a sophisticated multi-modal approach:
+
+1. **Nutritional Similarity (60% weight)**
+   - Features: energy, carb, protein, fat, sugar, fiber
+   - Normalization: L2 normalization for better cosine similarity
+   - Method: Cosine similarity between nutritional feature vectors
+
+2. **Text Similarity (40% weight)**
+   - Semantic Similarity (70% of text weight)
+     - Uses SentenceTransformer "all-MiniLM-L6-v2" model
+     - Pre-computed embeddings for efficiency
+     - Cosine similarity between name embeddings
+   - String Similarity (30% of text weight)
+     - Uses difflib's SequenceMatcher
+     - Fallback for semantic matching
+     - Helps with exact name matches
+
+3. **Combined Scoring**
+   - Weighted combination of nutritional and text similarities
+   - Excludes the ingredient itself from results
+   - Returns top-K most similar ingredients
+   - Each substitute includes similarity score and full nutritional profile
+
+The system is optimized for:
+- Fast retrieval using pre-computed embeddings
+- Balanced consideration of both nutritional and semantic similarity
+- Robust handling of edge cases and missing data
 
 ### Data Models
 
@@ -509,7 +531,7 @@ The application uses different databases for testing and production environments
 ### Testing Environment
 - **Database**: SQLite (`test_nutrition_recipe.db`)
 - **Trigger**: When `TESTING=true` environment variable is set or when running with pytest
-- **Benefits**: 
+- **Benefits**:
   - No external database setup required
   - Fast test execution
   - Automatic cleanup between test runs
