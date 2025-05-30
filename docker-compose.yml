@@ -1,0 +1,99 @@
+version: '3.8'
+
+services:
+
+  # Optional: Add Redis for caching (useful for production)
+  redis:
+    image: redis:7-alpine
+    container_name: recipe-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./data/redis:/data
+    command: redis-server --appendonly yes
+    restart: unless-stopped
+
+  postgres:
+    image: postgres:15
+    container_name: postgres
+    environment:
+      POSTGRES_DB: nutritionrecipe
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./data/postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+  recipe-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: recipe-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./sample-data:/app/sample-data:ro
+      - ./main.py:/app/main.py
+      - ./test_main.py:/app/test_main.py
+      - ./database.py:/app/database.py
+      - ./load_data.py:/app/load_data.py
+      - ./init_postgres.py:/app/init_postgres.py
+    environment:
+      - PYTHONPATH=/app
+      - ENVIRONMENT=development
+      - REDIS_URL=redis://redis:6379
+      - DB_HOST=postgres
+      - DB_PORT=5432
+      - DB_NAME=nutritionrecipe
+      - DB_USER=postgres
+      - DB_PASSWORD=password
+    depends_on:
+      - redis
+      - postgres
+    restart: unless-stopped
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8000/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    command: >
+      sh -c "python init_postgres.py && python load_data.py && uvicorn main:app --host 0.0.0.0 --port 8000 --reload"
+    # GPU support - uncomment if GPU is available and needed for ML operations
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]
+    # environment:
+    #   - NVIDIA_VISIBLE_DEVICES=all
+    #   - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+
+    # Optional: Add a reverse proxy (nginx) for production
+
+
+  nginx:
+    image: nginx:alpine
+    container_name: recipe-nginx
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - recipe-api
+    restart: unless-stopped
+    profiles:
+      - production
+
+networks:
+  default:
+    name: recipe-network

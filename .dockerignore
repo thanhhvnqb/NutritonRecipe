@@ -1,0 +1,38 @@
+# Exclude data directories (used for volume mounts, not for image build)
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.git/
+.gitignore
+.coverage
+htmlcov/
+*.db
+*.db-journal
+
+# Documentation and non-essential files
+README.md
+deployment-plan-slides.md
+deployment-presentation.html
+test_summary.md
+test_recipe.html
+REQUIREMENT.md
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 

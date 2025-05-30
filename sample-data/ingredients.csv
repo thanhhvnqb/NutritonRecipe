@@ -1,0 +1,165 @@
+id,ingredient_name,energy,carb,protein,fat,sugar,water,fiber,cost_per_gram,supplier_name
+ing_001,Organic Garlic,149.2,33.1,6.4,0.5,1.0,58.6,2.1,0.0321,Pure Provisions
+ing_002,Free-range Chicken,165.3,0.0,31.0,3.6,0.0,65.0,0.0,0.0259,FarmFresh Foods
+ing_003,Heirloom Tomato,18.5,3.9,0.9,0.2,2.6,94.5,1.2,0.0089,Nature's Harvest
+ing_004,Whole Wheat Flour,340.0,72.0,13.2,2.5,0.4,10.3,10.7,0.0032,Wholesome Wholesalers
+ing_005,Extra Virgin Olive Oil,884.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0198,Global Gourmet
+ing_006,Organic Spinach,23.0,3.6,2.9,0.4,0.4,91.4,2.2,0.0076,FarmFresh Foods
+ing_007,Wild Rice,357.0,74.9,14.7,1.1,0.7,9.3,6.2,0.0129,Nature's Harvest
+ing_008,Fresh Ginger Root,80.0,17.8,1.8,0.8,1.7,79.0,2.0,0.0115,Sustainable Supplies
+ing_009,Grass-fed Beef,250.0,0.0,26.0,17.0,0.0,56.0,0.0,0.0359,Quality Quotient
+ing_010,Raw Honey,304.0,82.4,0.3,0.0,82.1,17.0,0.2,0.0287,Organic Oasis
+ing_011,Black Pepper Powder,251.0,64.8,10.4,3.3,0.6,10.5,25.3,0.0492,Culinary Creations
+ing_012,Low-fat Yogurt,63.0,7.0,5.3,1.6,7.0,85.1,0.0,0.0065,Delicious Distributors
+ing_013,Fresh Lemon Juice,22.0,6.9,0.4,0.2,2.5,92.0,0.3,0.0188,Pure Provisions
+ing_014,Raw Almonds,579.0,21.6,21.2,49.9,4.4,4.7,12.5,0.0396,Optimal Offerings
+ing_015,Sea Salt,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0021,Global Gourmet
+ing_016,Organic Quinoa,368.0,64.2,14.1,6.1,1.6,13.3,7.0,0.0185,Wholesome Wholesalers
+ing_017,Pasteurized Eggs,143.0,0.7,12.6,9.5,0.4,76.1,0.0,0.0218,FarmFresh Foods
+ing_018,Red Bell Pepper,31.0,6.0,1.0,0.3,4.2,92.2,2.1,0.0083,Nature's Harvest
+ing_019,Frozen Blueberries,57.0,14.5,0.7,0.3,10.0,84.2,2.4,0.0165,Fresh Finds
+ing_020,Greek Yogurt,73.0,3.9,10.2,1.9,3.9,82.6,0.0,0.0105,Delicious Distributors
+ing_021,Brown Rice,362.0,76.2,7.5,2.7,0.5,11.6,3.5,0.0057,Sustainable Supplies
+ing_022,Sweet Potato,86.0,20.1,1.6,0.1,4.2,77.3,3.0,0.0042,FarmFresh Foods
+ing_023,Organic Kale,49.0,8.8,4.3,0.9,2.3,84.5,3.6,0.0128,Nature's Harvest
+ing_024,Maple Syrup,260.0,67.2,0.0,0.1,60.5,32.5,0.0,0.0326,Pure Provisions
+ing_025,White Onion,40.0,9.3,1.1,0.1,4.2,89.1,1.7,0.0033,Quality Quotient
+ing_026,Canned Tuna,116.0,0.0,25.5,1.0,0.0,73.3,0.0,0.0224,Optimal Offerings
+ing_027,Dried Basil,233.0,47.8,14.4,4.1,1.7,9.0,37.7,0.0375,Culinary Creations
+ing_028,Coconut Milk,230.0,5.5,2.3,23.8,5.5,67.6,2.2,0.0136,Global Gourmet
+ing_029,Ground Cinnamon,247.0,80.6,4.0,1.2,2.2,10.6,53.1,0.0248,Spice Specialists
+ing_030,Wild Salmon,208.0,0.0,20.4,13.4,0.0,64.9,0.0,0.0417,Pure Provisions
+ing_031,Red Lentils,352.0,63.4,24.6,1.1,1.8,8.3,10.7,0.0088,Sustainable Supplies
+ing_032,Sesame Seeds,573.0,23.5,17.7,49.7,0.3,5.0,11.8,0.0215,Wholesome Wholesalers
+ing_033,Avocado,160.0,8.5,2.0,14.7,0.7,73.2,6.7,0.0192,FarmFresh Foods
+ing_034,Balsamic Vinegar,88.0,17.0,0.5,0.0,14.0,82.0,0.0,0.0166,Global Gourmet
+ing_035,Plain Tofu,76.0,1.9,8.0,4.2,0.5,84.6,0.3,0.0074,Organic Oasis
+ing_036,Roasted Peanuts,587.0,16.1,25.8,49.2,4.7,1.8,8.5,0.0132,Quality Quotient
+ing_037,Vanilla Extract,288.0,12.7,0.1,0.1,12.7,52.7,0.0,0.0723,Culinary Creations
+ing_038,Green Tea Leaves,1.0,0.2,0.2,0.0,0.0,99.5,0.0,0.0356,Pure Provisions
+ing_039,Smoked Paprika,282.0,54.0,14.1,13.0,9.0,8.0,35.0,0.0296,Spice Specialists
+ing_040,Chia Seeds,486.0,42.1,16.5,30.7,0.0,5.8,34.4,0.0337,Optimal Offerings
+ing_041,Feta Cheese,264.0,4.1,14.2,21.3,4.1,55.2,0.0,0.0289,Delicious Distributors
+ing_042,Brown Sugar,380.0,98.1,0.1,0.0,97.0,1.3,0.0,0.0078,Wholesome Wholesalers
+ing_043,Dried Cranberries,308.0,82.8,0.2,1.4,72.0,13.0,5.3,0.0198,Fresh Finds
+ing_044,Dijon Mustard,66.0,6.6,4.2,3.9,1.8,84.3,2.1,0.0145,Global Gourmet
+ing_045,Shredded Coconut,354.0,15.2,3.3,33.5,6.2,4.4,9.0,0.0207,Tropical Traders
+ing_046,Nutritional Yeast,281.0,33.6,47.2,4.1,3.6,3.0,24.1,0.0386,Vegan Vitals
+ing_047,Rolled Oats,389.0,66.3,16.9,6.9,0.0,8.2,10.6,0.0043,Nature's Harvest
+ing_048,Pearl Barley,352.0,73.5,12.5,2.3,0.8,10.0,17.3,0.0061,Sustainable Supplies
+ing_049,Frozen Peas,81.0,14.5,5.4,0.4,5.7,79.0,5.1,0.0072,Fresh Finds
+ing_050,Canned Chickpeas,139.0,27.0,7.3,2.1,4.8,61.0,8.0,0.0065,Pantry Provisions
+ing_051,Whole Milk,61.0,4.8,3.3,3.3,5.1,88.1,0.0,0.0046,FarmFresh Foods
+ing_052,Miso Paste,198.0,26.5,11.8,6.0,6.2,48.0,5.4,0.0265,Global Gourmet
+ing_053,Dried Oregano,265.0,68.9,9.0,4.3,4.0,7.2,42.5,0.0312,Spice Specialists
+ing_054,Red Wine,85.0,2.6,0.1,0.0,0.6,87.7,0.0,0.0135,Vineyard Values
+ing_055,Black Beans,341.0,62.4,21.6,1.4,2.1,11.0,15.5,0.0077,Pantry Provisions
+ing_056,Pine Nuts,673.0,13.1,13.7,68.4,3.9,2.3,3.7,0.0652,Optimal Offerings
+ing_057,Fresh Rosemary,131.0,20.7,3.3,5.9,0.0,67.8,14.1,0.0387,Herb Haven
+ing_058,Tahini,595.0,21.2,17.0,53.8,0.7,3.0,9.3,0.0237,Global Gourmet
+ing_059,Curry Powder,325.0,58.0,14.3,14.0,3.2,9.5,53.2,0.0318,Spice Specialists
+ing_060,Flax Seeds,534.0,28.9,18.3,42.2,1.6,6.9,27.3,0.0243,Nutritional Necessities
+ing_061,Cottage Cheese,98.0,3.4,11.1,4.3,3.1,80.0,0.0,0.0098,Delicious Distributors
+ing_062,Agave Nectar,310.0,76.4,0.1,0.1,68.0,22.9,0.2,0.0352,Sweet Solutions
+ing_063,Dried Thyme,276.0,64.0,9.1,7.4,1.7,7.8,37.0,0.0396,Herb Haven
+ing_064,Cumin Seeds,375.0,44.2,17.8,22.3,2.3,8.1,10.5,0.0279,Spice Specialists
+ing_065,Red Kidney Beans,337.0,61.3,22.5,1.1,2.0,11.8,15.2,0.0081,Pantry Provisions
+ing_066,Heavy Cream,340.0,2.8,2.0,37.0,2.8,57.7,0.0,0.0157,FarmFresh Foods
+ing_067,Fresh Mint Leaves,70.0,14.8,3.8,0.9,0.0,78.7,8.0,0.0324,Herb Haven
+ing_068,Apple Cider Vinegar,21.0,0.9,0.0,0.0,0.4,93.8,0.0,0.0129,Pure Provisions
+ing_069,Green Lentils,352.0,63.4,24.6,1.1,1.8,8.3,10.7,0.0092,Sustainable Supplies
+ing_070,Capers,23.0,4.9,2.4,0.9,0.4,87.9,3.2,0.0312,Global Gourmet
+ing_071,Firm Tofu,144.0,4.0,15.6,8.7,1.3,70.6,2.3,0.0108,Organic Oasis
+ing_072,Rice Vinegar,30.0,5.8,0.4,0.0,0.0,93.4,0.0,0.0115,Global Gourmet
+ing_073,Buckwheat Flour,335.0,71.5,12.6,3.1,2.6,10.7,10.0,0.0097,Wholesome Wholesalers
+ing_074,Sun-dried Tomatoes,258.0,55.8,14.1,3.0,38.4,16.0,12.3,0.0284,Mediterranean Masters
+ing_075,White Miso,198.0,26.5,11.8,6.0,6.2,48.0,5.4,0.0273,Global Gourmet
+ing_076,Nutritional Yeast,281.0,33.6,47.2,4.1,3.6,3.0,24.1,0.0393,Vegan Vitals
+ing_077,Roasted Garlic,149.2,33.1,6.4,0.5,1.0,58.6,2.1,0.0347,Pure Provisions
+ing_078,Dried Shiitake Mushrooms,296.0,75.1,9.6,1.0,2.5,9.5,11.5,0.0532,Gourmet Goods
+ing_079,Flaxseed Oil,884.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0495,Nutritional Necessities
+ing_080,Dried Apricots,241.0,62.6,3.4,0.5,53.4,30.9,7.3,0.0218,Fresh Finds
+ing_081,Organic Tempeh,193.0,7.7,20.3,10.8,0.0,60.3,0.0,0.0149,Vegan Vitals
+ing_082,Oat Milk,48.0,7.9,1.3,1.5,4.0,89.0,0.7,0.0092,Plant Provisions
+ing_083,Fresh Sage,315.0,60.7,10.6,12.8,1.7,8.8,40.3,0.0397,Herb Haven
+ing_084,Cocoa Powder,228.0,57.9,19.6,13.7,1.8,3.0,33.2,0.0186,Sweet Solutions
+ing_085,Fresh Turmeric Root,354.0,77.1,7.8,3.3,3.2,6.0,21.1,0.0287,Spice Specialists
+ing_086,Seaweed Nori,35.0,5.8,5.8,0.3,0.5,85.0,0.5,0.0576,Global Gourmet
+ing_087,Dried Dates,282.0,75.0,2.5,0.4,63.4,21.3,8.0,0.0246,Fresh Finds
+ing_088,Ghee,900.0,0.0,0.0,99.9,0.0,0.1,0.0,0.0328,Global Gourmet
+ing_089,Ground Cardamom,311.0,68.5,10.8,6.7,2.2,8.3,28.0,0.0687,Spice Specialists
+ing_090,Golden Raisins,299.0,79.2,3.1,0.5,59.2,15.4,3.7,0.0175,Fresh Finds
+ing_091,Coconut Flour,404.0,58.6,19.3,12.1,17.8,4.0,35.0,0.0213,Wholesome Wholesalers
+ing_092,Arrowroot Powder,357.0,88.2,0.3,0.1,0.0,11.4,3.4,0.0193,Pantry Provisions
+ing_093,Red Cabbage,31.0,7.4,1.4,0.2,3.8,90.4,2.1,0.0042,FarmFresh Foods
+ing_094,Cashew Butter,593.0,29.8,17.0,49.2,5.6,2.0,3.0,0.0457,Nutritional Necessities
+ing_095,Dried Bay Leaves,313.0,74.0,7.6,8.4,3.2,5.4,26.3,0.0323,Herb Haven
+ing_096,Barley Malt Syrup,320.0,78.0,0.0,0.0,52.0,21.0,0.0,0.0163,Sweet Solutions
+ing_097,Star Anise,337.0,76.0,9.5,16.0,0.0,9.5,14.6,0.0502,Spice Specialists
+ing_098,Sweet White Rice Flour,364.0,80.0,6.0,1.4,0.1,11.9,2.4,0.0095,Wholesome Wholesalers
+ing_099,Wasabi Paste,184.0,27.7,6.2,9.4,3.0,54.0,7.8,0.0486,Global Gourmet
+ing_100,Red Pepper Flakes,318.0,56.6,12.0,17.3,10.3,8.0,27.2,0.0267,Spice Specialists
+ing_101,Sriracha Sauce,90.0,20.0,1.5,0.6,15.0,77.0,1.0,0.0152,Global Gourmet
+ing_102,Canned Coconut Cream,330.0,6.7,3.6,34.7,6.7,53.9,2.2,0.0187,Tropical Traders
+ing_103,Dried Cranberries,308.0,82.8,0.2,1.4,72.0,13.0,5.3,0.0207,Fresh Finds
+ing_104,Salted Capers,23.0,4.9,2.4,0.9,0.4,87.9,3.2,0.0327,Mediterranean Masters
+ing_105,Soy Sauce,53.0,6.7,8.1,0.1,1.0,72.0,0.8,0.0128,Global Gourmet
+ing_106,Artichoke Hearts,53.0,11.9,3.3,0.3,1.4,84.0,5.4,0.0203,Mediterranean Masters
+ing_107,Dried Wild Mushrooms,350.0,64.1,22.5,3.1,3.3,9.5,35.1,0.0612,Gourmet Goods
+ing_108,Rice Paper Wrappers,364.0,84.0,6.7,0.2,0.3,10.0,1.3,0.0129,Global Gourmet
+ing_109,Dried Lavender,275.0,61.0,4.0,10.0,0.0,8.0,37.0,0.0456,Herb Haven
+ing_110,Wakame Seaweed,45.0,9.1,3.0,0.6,0.8,80.0,0.5,0.0398,Global Gourmet
+ing_111,Pomegranate Molasses,280.0,65.0,0.4,0.2,57.0,33.0,0.4,0.0284,Mediterranean Masters
+ing_112,Fresh Curry Leaves,108.0,18.7,7.8,6.1,0.0,66.3,6.4,0.0329,Herb Haven
+ing_113,Liquid Smoke,0.0,0.0,0.0,0.0,0.0,85.0,0.0,0.0276,Culinary Creations
+ing_114,Fresh Lemongrass,99.0,25.3,1.8,0.5,3.0,70.6,3.2,0.0283,Global Gourmet
+ing_115,Hemp Seeds,553.0,8.7,31.6,48.8,1.5,5.0,4.0,0.0351,Nutritional Necessities
+ing_116,Pink Himalayan Salt,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0078,Spice Specialists
+ing_117,Mustard Seeds,508.0,28.1,25.3,36.2,6.9,5.0,12.2,0.0215,Global Gourmet
+ing_118,Dried Porcini Mushrooms,296.0,75.1,9.6,1.0,2.5,9.5,11.5,0.0693,Gourmet Goods
+ing_119,Panko Breadcrumbs,364.0,72.5,13.0,1.9,6.9,9.7,4.0,0.0087,Global Gourmet
+ing_120,Fennel Seeds,345.0,52.3,15.8,14.9,0.0,8.8,39.8,0.0245,Spice Specialists
+ing_121,White Sesame Seeds,573.0,23.5,17.7,49.7,0.3,5.0,11.8,0.0218,Wholesome Wholesalers
+ing_122,Coconut Aminos,25.0,5.0,1.0,0.0,4.0,93.0,0.0,0.0219,Global Gourmet
+ing_123,Dried Hibiscus Flowers,49.0,12.3,0.4,0.2,0.4,86.0,0.3,0.0355,Herb Haven
+ing_124,Rye Flour,325.0,68.6,10.3,1.6,1.1,11.8,15.1,0.0063,Wholesome Wholesalers
+ing_125,Gochujang Paste,212.0,46.0,6.2,3.3,34.0,37.0,1.6,0.0163,Global Gourmet
+ing_126,Carob Powder,222.0,89.3,4.6,0.7,49.2,3.6,40.0,0.0176,Sweet Solutions
+ing_127,Red Curry Paste,142.0,16.0,5.0,7.0,10.0,60.0,4.0,0.0207,Global Gourmet
+ing_128,Jackfruit,95.0,23.5,1.5,0.3,19.1,73.5,1.5,0.0137,Tropical Traders
+ing_129,Millet Flour,378.0,72.9,11.0,4.3,0.0,8.7,8.5,0.0102,Wholesome Wholesalers
+ing_130,Freeze-dried Raspberries,243.0,57.0,7.0,2.0,43.0,2.0,25.0,0.0457,Fresh Finds
+ing_131,Dried Fenugreek Leaves,292.0,58.4,25.0,6.4,0.0,6.3,24.9,0.0386,Spice Specialists
+ing_132,Rose Water,0.0,0.0,0.0,0.0,0.0,98.5,0.0,0.0347,Culinary Creations
+ing_133,Yellow Corn Meal,384.0,77.4,9.4,3.9,0.5,8.1,7.3,0.0064,Wholesome Wholesalers
+ing_134,Kelp Noodles,12.0,3.0,0.3,0.0,0.0,96.4,1.6,0.0185,Global Gourmet
+ing_135,Almond Flour,579.0,21.6,21.2,49.9,4.4,4.7,12.5,0.0367,Wholesome Wholesalers
+ing_136,Green Curry Paste,142.0,16.0,5.0,7.0,10.0,60.0,4.0,0.0211,Global Gourmet
+ing_137,Dried Kombu Seaweed,43.0,9.0,7.1,1.0,0.5,79.0,0.9,0.0413,Global Gourmet
+ing_138,Tamari Sauce,60.0,5.0,10.5,0.1,0.0,71.0,0.8,0.0138,Pantry Provisions
+ing_139,Fresh Horseradish,48.0,11.3,1.2,0.7,2.0,85.8,3.3,0.0157,Global Gourmet
+ing_140,Chickpea Flour,387.0,58.0,22.0,6.7,11.0,7.6,10.8,0.0089,Wholesome Wholesalers
+ing_141,Dried Ancho Chiles,282.0,65.6,14.0,7.0,5.0,7.0,54.0,0.0298,Spice Specialists
+ing_142,Black Garlic,149.2,33.1,6.4,0.5,1.0,58.6,2.1,0.0453,Gourmet Goods
+ing_143,Za'atar Spice Blend,309.0,50.0,9.0,11.0,1.0,5.0,42.0,0.0325,Mediterranean Masters
+ing_144,Cacao Nibs,228.0,57.9,19.6,13.7,1.8,3.0,33.2,0.0221,Sweet Solutions
+ing_145,Lupini Beans,114.0,16.4,12.5,2.9,2.3,65.1,5.4,0.0132,Mediterranean Masters
+ing_146,Black Rice,356.0,76.0,8.5,3.5,0.3,11.0,2.8,0.0174,Wholesome Wholesalers
+ing_147,Sumac Spice,312.0,69.2,3.0,8.0,0.7,5.8,20.0,0.0351,Mediterranean Masters
+ing_148,Acai Berry Powder,310.0,50.0,8.0,15.0,2.0,5.0,44.0,0.0742,Tropical Traders
+ing_149,Brown Rice Syrup,310.0,78.5,0.0,0.0,55.0,21.5,0.0,0.0142,Sweet Solutions
+ing_150,Fresh Kaffir Lime Leaves,49.0,13.0,3.8,1.6,0.0,80.0,6.4,0.0425,Herb Haven
+ing_151,Asafoetida Powder,297.0,67.5,4.0,1.1,0.0,5.4,4.1,0.0652,Spice Specialists
+ing_152,Dried Mulberries,340.0,76.0,9.2,3.0,54.0,10.0,2.5,0.0287,Fresh Finds
+ing_153,Canned Artichoke Hearts,53.0,11.9,3.3,0.3,1.4,84.0,5.4,0.0163,Mediterranean Masters
+ing_154,Harissa Paste,75.0,6.0,2.0,5.0,4.0,80.0,1.5,0.0215,Mediterranean Masters
+ing_155,Lucuma Powder,320.0,74.0,4.0,2.0,53.0,9.0,9.0,0.0627,Sweet Solutions
+ing_156,Fresh Tarragon,295.0,63.0,22.7,7.0,0.0,10.0,29.3,0.0368,Herb Haven
+ing_157,Sorghum Flour,382.0,77.0,9.0,3.3,1.3,8.0,6.0,0.0076,Wholesome Wholesalers
+ing_158,Matcha Green Tea Powder,300.0,60.0,34.0,3.8,0.0,4.0,38.0,0.0952,Pure Provisions
+ing_159,Black Bean Paste,176.0,30.0,8.6,4.8,15.0,55.0,2.0,0.0137,Global Gourmet
+ing_160,Adzuki Beans,329.0,62.9,19.9,0.5,0.3,14.0,12.7,0.0093,Wholesome Wholesalers
+ing_161,Dried Dulse Seaweed,18.0,3.5,1.7,0.6,0.0,85.0,0.3,0.0423,Global Gourmet
+ing_162,Habanero Pepper,120.0,8.8,4.0,7.0,5.0,80.0,6.6,0.0275,Spice Specialists
+ing_163,Amchur Powder,292.0,70.2,3.1,3.9,45.7,8.0,9.4,0.0309,Global Gourmet
+ing_164,Spirulina Powder,290.0,24.0,57.0,8.0,3.0,7.0,8.0,0.0863,Nutritional Necessities

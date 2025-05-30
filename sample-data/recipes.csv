@@ -1,0 +1,687 @@
+recipe_id,recipe_name,ingredient_id,ingredient_name,quantity_in_grams,recipe_type,cuisine
+1,Hearty Vegetable Soup,3,Heirloom Tomato,250,Soup,Italian
+1,Hearty Vegetable Soup,6,Organic Spinach,100,Soup,Italian
+1,Hearty Vegetable Soup,18,Red Bell Pepper,120,Soup,Italian
+1,Hearty Vegetable Soup,25,White Onion,150,Soup,Italian
+1,Hearty Vegetable Soup,1,Organic Garlic,15,Soup,Italian
+1,Hearty Vegetable Soup,8,Fresh Ginger Root,10,Soup,Italian
+1,Hearty Vegetable Soup,5,Extra Virgin Olive Oil,20,Soup,Italian
+1,Hearty Vegetable Soup,15,Sea Salt,5,Soup,Italian
+1,Hearty Vegetable Soup,11,Black Pepper Powder,3,Soup,Italian
+1,Hearty Vegetable Soup,27,Dried Basil,2,Soup,Italian
+2,Grilled Lemon Chicken,2,Free-range Chicken,500,Main Course,Mediterranean
+2,Grilled Lemon Chicken,13,Fresh Lemon Juice,45,Main Course,Mediterranean
+2,Grilled Lemon Chicken,1,Organic Garlic,12,Main Course,Mediterranean
+2,Grilled Lemon Chicken,5,Extra Virgin Olive Oil,30,Main Course,Mediterranean
+2,Grilled Lemon Chicken,27,Dried Basil,5,Main Course,Mediterranean
+2,Grilled Lemon Chicken,53,Dried Oregano,4,Main Course,Mediterranean
+2,Grilled Lemon Chicken,15,Sea Salt,4,Main Course,Mediterranean
+2,Grilled Lemon Chicken,11,Black Pepper Powder,2,Main Course,Mediterranean
+3,Creamy Spinach Quinoa Bowl,16,Organic Quinoa,150,Bowl,Vegetarian
+3,Creamy Spinach Quinoa Bowl,6,Organic Spinach,200,Bowl,Vegetarian
+3,Creamy Spinach Quinoa Bowl,20,Greek Yogurt,100,Bowl,Vegetarian
+3,Creamy Spinach Quinoa Bowl,41,Feta Cheese,50,Bowl,Vegetarian
+3,Creamy Spinach Quinoa Bowl,1,Organic Garlic,8,Bowl,Vegetarian
+3,Creamy Spinach Quinoa Bowl,5,Extra Virgin Olive Oil,15,Bowl,Vegetarian
+3,Creamy Spinach Quinoa Bowl,15,Sea Salt,3,Bowl,Vegetarian
+3,Creamy Spinach Quinoa Bowl,11,Black Pepper Powder,2,Bowl,Vegetarian
+3,Creamy Spinach Quinoa Bowl,13,Fresh Lemon Juice,10,Bowl,Vegetarian
+4,Classic Beef Stew,9,Grass-fed Beef,400,Stew,French
+4,Classic Beef Stew,3,Heirloom Tomato,150,Stew,French
+4,Classic Beef Stew,25,White Onion,120,Stew,French
+4,Classic Beef Stew,22,Sweet Potato,200,Stew,French
+4,Classic Beef Stew,1,Organic Garlic,10,Stew,French
+4,Classic Beef Stew,54,Red Wine,100,Stew,French
+4,Classic Beef Stew,95,Dried Bay Leaves,1,Stew,French
+4,Classic Beef Stew,67,Fresh Mint Leaves,5,Stew,French
+4,Classic Beef Stew,15,Sea Salt,5,Stew,French
+4,Classic Beef Stew,11,Black Pepper Powder,3,Stew,French
+5,Blueberry Almond Smoothie,19,Frozen Blueberries,150,Smoothie,American
+5,Blueberry Almond Smoothie,14,Raw Almonds,30,Smoothie,American
+5,Blueberry Almond Smoothie,51,Whole Milk,250,Smoothie,American
+5,Blueberry Almond Smoothie,10,Raw Honey,15,Smoothie,American
+5,Blueberry Almond Smoothie,47,Rolled Oats,40,Smoothie,American
+5,Blueberry Almond Smoothie,12,Low-fat Yogurt,100,Smoothie,American
+6,Thai Coconut Curry,28,Coconut Milk,400,Curry,Thai
+6,Thai Coconut Curry,35,Plain Tofu,300,Curry,Thai
+6,Thai Coconut Curry,18,Red Bell Pepper,120,Curry,Thai
+6,Thai Coconut Curry,8,Fresh Ginger Root,15,Curry,Thai
+6,Thai Coconut Curry,59,Curry Powder,8,Curry,Thai
+6,Thai Coconut Curry,105,Soy Sauce,20,Curry,Thai
+6,Thai Coconut Curry,7,Wild Rice,200,Curry,Thai
+6,Thai Coconut Curry,15,Sea Salt,3,Curry,Thai
+6,Thai Coconut Curry,114,Fresh Lemongrass,10,Curry,Thai
+7,Mediterranean Quinoa Salad,16,Organic Quinoa,180,Salad,Mediterranean
+7,Mediterranean Quinoa Salad,3,Heirloom Tomato,150,Salad,Mediterranean
+7,Mediterranean Quinoa Salad,18,Red Bell Pepper,100,Salad,Mediterranean
+7,Mediterranean Quinoa Salad,41,Feta Cheese,80,Salad,Mediterranean
+7,Mediterranean Quinoa Salad,33,Avocado,120,Salad,Mediterranean
+7,Mediterranean Quinoa Salad,34,Balsamic Vinegar,15,Salad,Mediterranean
+7,Mediterranean Quinoa Salad,5,Extra Virgin Olive Oil,25,Salad,Mediterranean
+7,Mediterranean Quinoa Salad,15,Sea Salt,3,Salad,Mediterranean
+7,Mediterranean Quinoa Salad,11,Black Pepper Powder,2,Salad,Mediterranean
+7,Mediterranean Quinoa Salad,13,Fresh Lemon Juice,10,Salad,Mediterranean
+8,Chocolate Chia Pudding,40,Chia Seeds,60,Dessert,Vegan
+8,Chocolate Chia Pudding,82,Oat Milk,300,Dessert,Vegan
+8,Chocolate Chia Pudding,84,Cocoa Powder,15,Dessert,Vegan
+8,Chocolate Chia Pudding,10,Raw Honey,20,Dessert,Vegan
+8,Chocolate Chia Pudding,37,Vanilla Extract,5,Dessert,Vegan
+9,Roasted Sweet Potato Tacos,22,Sweet Potato,350,Taco,Mexican
+9,Roasted Sweet Potato Tacos,55,Black Beans,200,Taco,Mexican
+9,Roasted Sweet Potato Tacos,18,Red Bell Pepper,100,Taco,Mexican
+9,Roasted Sweet Potato Tacos,25,White Onion,80,Taco,Mexican
+9,Roasted Sweet Potato Tacos,59,Curry Powder,5,Taco,Mexican
+9,Roasted Sweet Potato Tacos,1,Organic Garlic,8,Taco,Mexican
+9,Roasted Sweet Potato Tacos,5,Extra Virgin Olive Oil,20,Taco,Mexican
+9,Roasted Sweet Potato Tacos,13,Fresh Lemon Juice,15,Taco,Mexican
+9,Roasted Sweet Potato Tacos,15,Sea Salt,4,Taco,Mexican
+9,Roasted Sweet Potato Tacos,11,Black Pepper Powder,2,Taco,Mexican
+10,Lemon Garlic Salmon,30,Wild Salmon,400,Main Course,American
+10,Lemon Garlic Salmon,13,Fresh Lemon Juice,30,Main Course,American
+10,Lemon Garlic Salmon,1,Organic Garlic,12,Main Course,American
+10,Lemon Garlic Salmon,5,Extra Virgin Olive Oil,25,Main Course,American
+10,Lemon Garlic Salmon,27,Dried Basil,3,Main Course,American
+10,Lemon Garlic Salmon,15,Sea Salt,4,Main Course,American
+10,Lemon Garlic Salmon,11,Black Pepper Powder,2,Main Course,American
+11,Mushroom Risotto,7,Wild Rice,200,Risotto,Italian
+11,Mushroom Risotto,78,Dried Shiitake Mushrooms,50,Risotto,Italian
+11,Mushroom Risotto,25,White Onion,100,Risotto,Italian
+11,Mushroom Risotto,1,Organic Garlic,8,Risotto,Italian
+11,Mushroom Risotto,5,Extra Virgin Olive Oil,20,Risotto,Italian
+11,Mushroom Risotto,54,Red Wine,80,Risotto,Italian
+11,Mushroom Risotto,15,Sea Salt,3,Risotto,Italian
+11,Mushroom Risotto,11,Black Pepper Powder,2,Risotto,Italian
+11,Mushroom Risotto,41,Feta Cheese,50,Risotto,Italian
+12,Spicy Black Bean Burger,55,Black Beans,300,Burger,Vegetarian
+12,Spicy Black Bean Burger,25,White Onion,80,Burger,Vegetarian
+12,Spicy Black Bean Burger,1,Organic Garlic,10,Burger,Vegetarian
+12,Spicy Black Bean Burger,18,Red Bell Pepper,70,Burger,Vegetarian
+12,Spicy Black Bean Burger,4,Whole Wheat Flour,40,Burger,Vegetarian
+12,Spicy Black Bean Burger,11,Black Pepper Powder,3,Burger,Vegetarian
+12,Spicy Black Bean Burger,59,Curry Powder,5,Burger,Vegetarian
+12,Spicy Black Bean Burger,5,Extra Virgin Olive Oil,15,Burger,Vegetarian
+12,Spicy Black Bean Burger,15,Sea Salt,4,Burger,Vegetarian
+13,Apple Cinnamon Oatmeal,47,Rolled Oats,80,Breakfast,American
+13,Apple Cinnamon Oatmeal,51,Whole Milk,250,Breakfast,American
+13,Apple Cinnamon Oatmeal,29,Ground Cinnamon,3,Breakfast,American
+13,Apple Cinnamon Oatmeal,10,Raw Honey,15,Breakfast,American
+13,Apple Cinnamon Oatmeal,14,Raw Almonds,20,Breakfast,American
+14,Roasted Vegetable Flatbread,4,Whole Wheat Flour,250,Flatbread,Mediterranean
+14,Roasted Vegetable Flatbread,5,Extra Virgin Olive Oil,20,Flatbread,Mediterranean
+14,Roasted Vegetable Flatbread,15,Sea Salt,5,Flatbread,Mediterranean
+14,Roasted Vegetable Flatbread,3,Heirloom Tomato,150,Flatbread,Mediterranean
+14,Roasted Vegetable Flatbread,18,Red Bell Pepper,120,Flatbread,Mediterranean
+14,Roasted Vegetable Flatbread,1,Organic Garlic,10,Flatbread,Mediterranean
+14,Roasted Vegetable Flatbread,53,Dried Oregano,3,Flatbread,Mediterranean
+14,Roasted Vegetable Flatbread,41,Feta Cheese,80,Flatbread,Mediterranean
+15,Red Lentil Dal,31,Red Lentils,200,Dal,Indian
+15,Red Lentil Dal,25,White Onion,100,Dal,Indian
+15,Red Lentil Dal,1,Organic Garlic,10,Dal,Indian
+15,Red Lentil Dal,8,Fresh Ginger Root,15,Dal,Indian
+15,Red Lentil Dal,59,Curry Powder,8,Dal,Indian
+15,Red Lentil Dal,85,Fresh Turmeric Root,10,Dal,Indian
+15,Red Lentil Dal,5,Extra Virgin Olive Oil,20,Dal,Indian
+15,Red Lentil Dal,15,Sea Salt,4,Dal,Indian
+15,Red Lentil Dal,11,Black Pepper Powder,2,Dal,Indian
+16,Avocado Toast with Poached Eggs,4,Whole Wheat Flour,100,Breakfast,American
+16,Avocado Toast with Poached Eggs,33,Avocado,150,Breakfast,American
+16,Avocado Toast with Poached Eggs,17,Pasteurized Eggs,120,Breakfast,American
+16,Avocado Toast with Poached Eggs,13,Fresh Lemon Juice,5,Breakfast,American
+16,Avocado Toast with Poached Eggs,15,Sea Salt,3,Breakfast,American
+16,Avocado Toast with Poached Eggs,11,Black Pepper Powder,2,Breakfast,American
+16,Avocado Toast with Poached Eggs,18,Red Bell Pepper,30,Breakfast,American
+17,Coconut Curry Chickpea Stew,50,Canned Chickpeas,300,Stew,Indian
+17,Coconut Curry Chickpea Stew,28,Coconut Milk,400,Stew,Indian
+17,Coconut Curry Chickpea Stew,25,White Onion,120,Stew,Indian
+17,Coconut Curry Chickpea Stew,1,Organic Garlic,10,Stew,Indian
+17,Coconut Curry Chickpea Stew,8,Fresh Ginger Root,15,Stew,Indian
+17,Coconut Curry Chickpea Stew,59,Curry Powder,8,Stew,Indian
+17,Coconut Curry Chickpea Stew,5,Extra Virgin Olive Oil,20,Stew,Indian
+17,Coconut Curry Chickpea Stew,6,Organic Spinach,150,Stew,Indian
+17,Coconut Curry Chickpea Stew,15,Sea Salt,4,Stew,Indian
+17,Coconut Curry Chickpea Stew,11,Black Pepper Powder,2,Stew,Indian
+18,Berry Almond Breakfast Parfait,20,Greek Yogurt,200,Breakfast,American
+18,Berry Almond Breakfast Parfait,19,Frozen Blueberries,100,Breakfast,American
+18,Berry Almond Breakfast Parfait,14,Raw Almonds,30,Breakfast,American
+18,Berry Almond Breakfast Parfait,10,Raw Honey,15,Breakfast,American
+18,Berry Almond Breakfast Parfait,47,Rolled Oats,40,Breakfast,American
+19,Simple Marinara Pasta,3,Heirloom Tomato,400,Pasta,Italian
+19,Simple Marinara Pasta,1,Organic Garlic,15,Pasta,Italian
+19,Simple Marinara Pasta,25,White Onion,100,Pasta,Italian
+19,Simple Marinara Pasta,5,Extra Virgin Olive Oil,25,Pasta,Italian
+19,Simple Marinara Pasta,27,Dried Basil,5,Pasta,Italian
+19,Simple Marinara Pasta,53,Dried Oregano,3,Pasta,Italian
+19,Simple Marinara Pasta,15,Sea Salt,4,Pasta,Italian
+19,Simple Marinara Pasta,11,Black Pepper Powder,2,Pasta,Italian
+20,Sweet Potato Black Bean Enchiladas,22,Sweet Potato,300,Enchilada,Mexican
+20,Sweet Potato Black Bean Enchiladas,55,Black Beans,200,Enchilada,Mexican
+20,Sweet Potato Black Bean Enchiladas,18,Red Bell Pepper,100,Enchilada,Mexican
+20,Sweet Potato Black Bean Enchiladas,25,White Onion,80,Enchilada,Mexican
+20,Sweet Potato Black Bean Enchiladas,1,Organic Garlic,10,Enchilada,Mexican
+20,Sweet Potato Black Bean Enchiladas,59,Curry Powder,6,Enchilada,Mexican
+20,Sweet Potato Black Bean Enchiladas,15,Sea Salt,4,Enchilada,Mexican
+20,Sweet Potato Black Bean Enchiladas,41,Feta Cheese,100,Enchilada,Mexican
+21,Lemon Herb Roasted Chicken,2,Free-range Chicken,600,Main Course,French
+21,Lemon Herb Roasted Chicken,13,Fresh Lemon Juice,40,Main Course,French
+21,Lemon Herb Roasted Chicken,1,Organic Garlic,15,Main Course,French
+21,Lemon Herb Roasted Chicken,67,Fresh Mint Leaves,10,Main Course,French
+21,Lemon Herb Roasted Chicken,53,Dried Oregano,5,Main Course,French
+21,Lemon Herb Roasted Chicken,5,Extra Virgin Olive Oil,30,Main Course,French
+21,Lemon Herb Roasted Chicken,15,Sea Salt,5,Main Course,French
+21,Lemon Herb Roasted Chicken,11,Black Pepper Powder,3,Main Course,French
+22,Creamy Tomato Soup,3,Heirloom Tomato,500,Soup,Italian
+22,Creamy Tomato Soup,25,White Onion,120,Soup,Italian
+22,Creamy Tomato Soup,1,Organic Garlic,10,Soup,Italian
+22,Creamy Tomato Soup,5,Extra Virgin Olive Oil,20,Soup,Italian
+22,Creamy Tomato Soup,27,Dried Basil,3,Soup,Italian
+22,Creamy Tomato Soup,15,Sea Salt,4,Soup,Italian
+22,Creamy Tomato Soup,11,Black Pepper Powder,2,Soup,Italian
+22,Creamy Tomato Soup,20,Greek Yogurt,100,Soup,Italian
+23,Quinoa Stuffed Bell Peppers,16,Organic Quinoa,200,Main Course,Mediterranean
+23,Quinoa Stuffed Bell Peppers,18,Red Bell Pepper,400,Main Course,Mediterranean
+23,Quinoa Stuffed Bell Peppers,55,Black Beans,150,Main Course,Mediterranean
+23,Quinoa Stuffed Bell Peppers,25,White Onion,80,Main Course,Mediterranean
+23,Quinoa Stuffed Bell Peppers,1,Organic Garlic,10,Main Course,Mediterranean
+23,Quinoa Stuffed Bell Peppers,3,Heirloom Tomato,120,Main Course,Mediterranean
+23,Quinoa Stuffed Bell Peppers,5,Extra Virgin Olive Oil,15,Main Course,Mediterranean
+23,Quinoa Stuffed Bell Peppers,15,Sea Salt,3,Main Course,Mediterranean
+23,Quinoa Stuffed Bell Peppers,11,Black Pepper Powder,2,Main Course,Mediterranean
+23,Quinoa Stuffed Bell Peppers,41,Feta Cheese,80,Main Course,Mediterranean
+24,Almond Butter Banana Smoothie,51,Whole Milk,250,Smoothie,American
+24,Almond Butter Banana Smoothie,94,Cashew Butter,30,Smoothie,American
+24,Almond Butter Banana Smoothie,10,Raw Honey,20,Smoothie,American
+24,Almond Butter Banana Smoothie,47,Rolled Oats,40,Smoothie,American
+24,Almond Butter Banana Smoothie,37,Vanilla Extract,5,Smoothie,American
+25,Roasted Brussels Sprout Salad,75,White Miso,15,Salad,Asian Fusion
+25,Roasted Brussels Sprout Salad,5,Extra Virgin Olive Oil,25,Salad,Asian Fusion
+25,Roasted Brussels Sprout Salad,34,Balsamic Vinegar,15,Salad,Asian Fusion
+25,Roasted Brussels Sprout Salad,1,Organic Garlic,8,Salad,Asian Fusion
+25,Roasted Brussels Sprout Salad,15,Sea Salt,3,Salad,Asian Fusion
+25,Roasted Brussels Sprout Salad,11,Black Pepper Powder,2,Salad,Asian Fusion
+25,Roasted Brussels Sprout Salad,32,Sesame Seeds,10,Salad,Asian Fusion
+26,Lentil Walnut Loaf,31,Red Lentils,200,Main Course,Vegetarian
+26,Lentil Walnut Loaf,25,White Onion,100,Main Course,Vegetarian
+26,Lentil Walnut Loaf,1,Organic Garlic,10,Main Course,Vegetarian
+26,Lentil Walnut Loaf,4,Whole Wheat Flour,50,Main Course,Vegetarian
+26,Lentil Walnut Loaf,14,Raw Almonds,100,Main Course,Vegetarian
+26,Lentil Walnut Loaf,18,Red Bell Pepper,80,Main Course,Vegetarian
+26,Lentil Walnut Loaf,5,Extra Virgin Olive Oil,15,Main Course,Vegetarian
+26,Lentil Walnut Loaf,15,Sea Salt,4,Main Course,Vegetarian
+26,Lentil Walnut Loaf,11,Black Pepper Powder,2,Main Course,Vegetarian
+27,Creamy Mushroom Pasta,78,Dried Shiitake Mushrooms,80,Pasta,Italian
+27,Creamy Mushroom Pasta,25,White Onion,100,Pasta,Italian
+27,Creamy Mushroom Pasta,1,Organic Garlic,10,Pasta,Italian
+27,Creamy Mushroom Pasta,5,Extra Virgin Olive Oil,20,Pasta,Italian
+27,Creamy Mushroom Pasta,66,Heavy Cream,200,Pasta,Italian
+27,Creamy Mushroom Pasta,54,Red Wine,50,Pasta,Italian
+27,Creamy Mushroom Pasta,15,Sea Salt,3,Pasta,Italian
+27,Creamy Mushroom Pasta,11,Black Pepper Powder,2,Pasta,Italian
+27,Creamy Mushroom Pasta,27,Dried Basil,2,Pasta,Italian
+28,Mango Coconut Chia Pudding,40,Chia Seeds,60,Dessert,Thai
+28,Mango Coconut Chia Pudding,28,Coconut Milk,300,Dessert,Thai
+28,Mango Coconut Chia Pudding,10,Raw Honey,15,Dessert,Thai
+28,Mango Coconut Chia Pudding,37,Vanilla Extract,5,Dessert,Thai
+29,Sweet Potato and Kale Hash,22,Sweet Potato,300,Breakfast,American
+29,Sweet Potato and Kale Hash,23,Organic Kale,150,Breakfast,American
+29,Sweet Potato and Kale Hash,25,White Onion,100,Breakfast,American
+29,Sweet Potato and Kale Hash,1,Organic Garlic,10,Breakfast,American
+29,Sweet Potato and Kale Hash,17,Pasteurized Eggs,120,Breakfast,American
+29,Sweet Potato and Kale Hash,5,Extra Virgin Olive Oil,20,Breakfast,American
+29,Sweet Potato and Kale Hash,15,Sea Salt,4,Breakfast,American
+29,Sweet Potato and Kale Hash,11,Black Pepper Powder,2,Breakfast,American
+30,Coconut Red Curry with Tofu,28,Coconut Milk,400,Curry,Thai
+30,Coconut Red Curry with Tofu,35,Plain Tofu,300,Curry,Thai
+30,Coconut Red Curry with Tofu,18,Red Bell Pepper,120,Curry,Thai
+30,Coconut Red Curry with Tofu,8,Fresh Ginger Root,15,Curry,Thai
+30,Coconut Red Curry with Tofu,127,Red Curry Paste,30,Curry,Thai
+30,Coconut Red Curry with Tofu,105,Soy Sauce,15,Curry,Thai
+30,Coconut Red Curry with Tofu,7,Wild Rice,200,Curry,Thai
+30,Coconut Red Curry with Tofu,15,Sea Salt,3,Curry,Thai
+31,Baked Falafel Bowls,50,Canned Chickpeas,300,Bowl,Middle Eastern
+31,Baked Falafel Bowls,25,White Onion,80,Bowl,Middle Eastern
+31,Baked Falafel Bowls,1,Organic Garlic,15,Bowl,Middle Eastern
+31,Baked Falafel Bowls,4,Whole Wheat Flour,40,Bowl,Middle Eastern
+31,Baked Falafel Bowls,59,Curry Powder,8,Bowl,Middle Eastern
+31,Baked Falafel Bowls,5,Extra Virgin Olive Oil,25,Bowl,Middle Eastern
+31,Baked Falafel Bowls,15,Sea Salt,4,Bowl,Middle Eastern
+31,Baked Falafel Bowls,11,Black Pepper Powder,2,Bowl,Middle Eastern
+31,Baked Falafel Bowls,13,Fresh Lemon Juice,20,Bowl,Middle Eastern
+32,Orange Sesame Tofu Stir-Fry,35,Plain Tofu,300,Stir-Fry,Chinese
+32,Orange Sesame Tofu Stir-Fry,18,Red Bell Pepper,120,Stir-Fry,Chinese
+32,Orange Sesame Tofu Stir-Fry,8,Fresh Ginger Root,10,Stir-Fry,Chinese
+32,Orange Sesame Tofu Stir-Fry,1,Organic Garlic,12,Stir-Fry,Chinese
+32,Orange Sesame Tofu Stir-Fry,105,Soy Sauce,25,Stir-Fry,Chinese
+32,Orange Sesame Tofu Stir-Fry,32,Sesame Seeds,15,Stir-Fry,Chinese
+32,Orange Sesame Tofu Stir-Fry,5,Extra Virgin Olive Oil,20,Stir-Fry,Chinese
+32,Orange Sesame Tofu Stir-Fry,7,Wild Rice,200,Stir-Fry,Chinese
+33,Carrot Ginger Soup,6,Organic Spinach,50,Soup,Asian Fusion
+33,Carrot Ginger Soup,8,Fresh Ginger Root,20,Soup,Asian Fusion
+33,Carrot Ginger Soup,25,White Onion,100,Soup,Asian Fusion
+33,Carrot Ginger Soup,1,Organic Garlic,10,Soup,Asian Fusion
+33,Carrot Ginger Soup,28,Coconut Milk,300,Soup,Asian Fusion
+33,Carrot Ginger Soup,5,Extra Virgin Olive Oil,15,Soup,Asian Fusion
+33,Carrot Ginger Soup,15,Sea Salt,3,Soup,Asian Fusion
+33,Carrot Ginger Soup,11,Black Pepper Powder,2,Soup,Asian Fusion
+34,Mediterranean Chickpea Salad,50,Canned Chickpeas,250,Salad,Mediterranean
+34,Mediterranean Chickpea Salad,3,Heirloom Tomato,150,Salad,Mediterranean
+34,Mediterranean Chickpea Salad,18,Red Bell Pepper,100,Salad,Mediterranean
+34,Mediterranean Chickpea Salad,25,White Onion,80,Salad,Mediterranean
+34,Mediterranean Chickpea Salad,41,Feta Cheese,80,Salad,Mediterranean
+34,Mediterranean Chickpea Salad,5,Extra Virgin Olive Oil,25,Salad,Mediterranean
+34,Mediterranean Chickpea Salad,13,Fresh Lemon Juice,20,Salad,Mediterranean
+34,Mediterranean Chickpea Salad,15,Sea Salt,3,Salad,Mediterranean
+34,Mediterranean Chickpea Salad,11,Black Pepper Powder,2,Salad,Mediterranean
+35,Sweet and Spicy Roasted Nuts,14,Raw Almonds,200,Snack,American
+35,Sweet and Spicy Roasted Nuts,36,Roasted Peanuts,200,Snack,American
+35,Sweet and Spicy Roasted Nuts,10,Raw Honey,30,Snack,American
+35,Sweet and Spicy Roasted Nuts,59,Curry Powder,5,Snack,American
+35,Sweet and Spicy Roasted Nuts,29,Ground Cinnamon,3,Snack,American
+35,Sweet and Spicy Roasted Nuts,15,Sea Salt,4,Snack,American
+36,Baked Salmon with Dill Sauce,30,Wild Salmon,400,Main Course,Scandinavian
+36,Baked Salmon with Dill Sauce,13,Fresh Lemon Juice,30,Main Course,Scandinavian
+36,Baked Salmon with Dill Sauce,5,Extra Virgin Olive Oil,20,Main Course,Scandinavian
+36,Baked Salmon with Dill Sauce,20,Greek Yogurt,100,Main Course,Scandinavian
+36,Baked Salmon with Dill Sauce,15,Sea Salt,4,Main Course,Scandinavian
+36,Baked Salmon with Dill Sauce,11,Black Pepper Powder,2,Main Course,Scandinavian
+37,Quinoa Tabbouleh,16,Organic Quinoa,200,Salad,Middle Eastern
+37,Quinoa Tabbouleh,3,Heirloom Tomato,150,Salad,Middle Eastern
+37,Quinoa Tabbouleh,67,Fresh Mint Leaves,20,Salad,Middle Eastern
+37,Quinoa Tabbouleh,1,Organic Garlic,5,Salad,Middle Eastern
+37,Quinoa Tabbouleh,13,Fresh Lemon Juice,30,Salad,Middle Eastern
+37,Quinoa Tabbouleh,5,Extra Virgin Olive Oil,25,Salad,Middle Eastern
+37,Quinoa Tabbouleh,15,Sea Salt,3,Salad,Middle Eastern
+37,Quinoa Tabbouleh,11,Black Pepper Powder,2,Salad,Middle Eastern
+38,Black Bean and Corn Quesadillas,55,Black Beans,200,Quesadilla,Mexican
+38,Black Bean and Corn Quesadillas,4,Whole Wheat Flour,250,Quesadilla,Mexican
+38,Black Bean and Corn Quesadillas,25,White Onion,80,Quesadilla,Mexican
+38,Black Bean and Corn Quesadillas,18,Red Bell Pepper,100,Quesadilla,Mexican
+38,Black Bean and Corn Quesadillas,41,Feta Cheese,150,Quesadilla,Mexican
+38,Black Bean and Corn Quesadillas,59,Curry Powder,3,Quesadilla,Mexican
+38,Black Bean and Corn Quesadillas,15,Sea Salt,3,Quesadilla,Mexican
+38,Black Bean and Corn Quesadillas,11,Black Pepper Powder,2,Quesadilla,Mexican
+39,Spinach and Chickpea Curry,50,Canned Chickpeas,300,Curry,Indian
+39,Spinach and Chickpea Curry,6,Organic Spinach,250,Curry,Indian
+39,Spinach and Chickpea Curry,25,White Onion,100,Curry,Indian
+39,Spinach and Chickpea Curry,1,Organic Garlic,12,Curry,Indian
+39,Spinach and Chickpea Curry,8,Fresh Ginger Root,15,Curry,Indian
+39,Spinach and Chickpea Curry,59,Curry Powder,10,Curry,Indian
+39,Spinach and Chickpea Curry,5,Extra Virgin Olive Oil,20,Curry,Indian
+39,Spinach and Chickpea Curry,15,Sea Salt,4,Curry,Indian
+39,Spinach and Chickpea Curry,11,Black Pepper Powder,2,Curry,Indian
+40,Maple Glazed Salmon,30,Wild Salmon,400,Main Course,American
+40,Maple Glazed Salmon,24,Maple Syrup,40,Main Course,American
+40,Maple Glazed Salmon,105,Soy Sauce,15,Main Course,American
+40,Maple Glazed Salmon,1,Organic Garlic,10,Main Course,American
+40,Maple Glazed Salmon,8,Fresh Ginger Root,8,Main Course,American
+40,Maple Glazed Salmon,15,Sea Salt,3,Main Course,American
+40,Maple Glazed Salmon,11,Black Pepper Powder,2,Main Course,American
+41,Pumpkin Spice Oatmeal,47,Rolled Oats,80,Breakfast,American
+41,Pumpkin Spice Oatmeal,51,Whole Milk,250,Breakfast,American
+41,Pumpkin Spice Oatmeal,29,Ground Cinnamon,3,Breakfast,American
+41,Pumpkin Spice Oatmeal,10,Raw Honey,15,Breakfast,American
+41,Pumpkin Spice Oatmeal,14,Raw Almonds,20,Breakfast,American
+41,Pumpkin Spice Oatmeal,37,Vanilla Extract,3,Breakfast,American
+42,Mediterranean Eggplant Dip,1,Organic Garlic,15,Appetizer,Mediterranean
+42,Mediterranean Eggplant Dip,25,White Onion,80,Appetizer,Mediterranean
+42,Mediterranean Eggplant Dip,5,Extra Virgin Olive Oil,30,Appetizer,Mediterranean
+42,Mediterranean Eggplant Dip,13,Fresh Lemon Juice,20,Appetizer,Mediterranean
+42,Mediterranean Eggplant Dip,15,Sea Salt,3,Appetizer,Mediterranean
+42,Mediterranean Eggplant Dip,11,Black Pepper Powder,2,Appetizer,Mediterranean
+42,Mediterranean Eggplant Dip,4,Whole Wheat Flour,100,Appetizer,Mediterranean
+43,Kale and White Bean Soup,23,Organic Kale,200,Soup,Italian
+43,Kale and White Bean Soup,50,Canned Chickpeas,250,Soup,Italian
+43,Kale and White Bean Soup,25,White Onion,100,Soup,Italian
+43,Kale and White Bean Soup,1,Organic Garlic,12,Soup,Italian
+43,Kale and White Bean Soup,5,Extra Virgin Olive Oil,20,Soup,Italian
+43,Kale and White Bean Soup,15,Sea Salt,4,Soup,Italian
+43,Kale and White Bean Soup,11,Black Pepper Powder,2,Soup,Italian
+43,Kale and White Bean Soup,27,Dried Basil,3,Soup,Italian
+44,Sesame Soy Glazed Tofu,35,Plain Tofu,400,Main Course,Asian Fusion
+44,Sesame Soy Glazed Tofu,105,Soy Sauce,40,Main Course,Asian Fusion
+44,Sesame Soy Glazed Tofu,10,Raw Honey,20,Main Course,Asian Fusion
+44,Sesame Soy Glazed Tofu,1,Organic Garlic,10,Main Course,Asian Fusion
+44,Sesame Soy Glazed Tofu,8,Fresh Ginger Root,12,Main Course,Asian Fusion
+44,Sesame Soy Glazed Tofu,32,Sesame Seeds,15,Main Course,Asian Fusion
+44,Sesame Soy Glazed Tofu,5,Extra Virgin Olive Oil,15,Main Course,Asian Fusion
+44,Sesame Soy Glazed Tofu,15,Sea Salt,2,Main Course,Asian Fusion
+45,Cauliflower Fried Rice,7,Wild Rice,100,Stir-Fry,Chinese
+45,Cauliflower Fried Rice,17,Pasteurized Eggs,100,Stir-Fry,Chinese
+45,Cauliflower Fried Rice,25,White Onion,80,Stir-Fry,Chinese
+45,Cauliflower Fried Rice,1,Organic Garlic,10,Stir-Fry,Chinese
+45,Cauliflower Fried Rice,8,Fresh Ginger Root,8,Stir-Fry,Chinese
+45,Cauliflower Fried Rice,105,Soy Sauce,15,Stir-Fry,Chinese
+45,Cauliflower Fried Rice,5,Extra Virgin Olive Oil,20,Stir-Fry,Chinese
+45,Cauliflower Fried Rice,15,Sea Salt,3,Stir-Fry,Chinese
+45,Cauliflower Fried Rice,11,Black Pepper Powder,2,Stir-Fry,Chinese
+46,Coconut Lime Rice,7,Wild Rice,200,Side Dish,Thai
+46,Coconut Lime Rice,28,Coconut Milk,300,Side Dish,Thai
+46,Coconut Lime Rice,13,Fresh Lemon Juice,25,Side Dish,Thai
+46,Coconut Lime Rice,15,Sea Salt,3,Side Dish,Thai
+46,Coconut Lime Rice,67,Fresh Mint Leaves,10,Side Dish,Thai
+47,Black Bean Sweet Potato Chili,55,Black Beans,300,Chili,Mexican
+47,Black Bean Sweet Potato Chili,22,Sweet Potato,400,Chili,Mexican
+47,Black Bean Sweet Potato Chili,25,White Onion,120,Chili,Mexican
+47,Black Bean Sweet Potato Chili,18,Red Bell Pepper,100,Chili,Mexican
+47,Black Bean Sweet Potato Chili,1,Organic Garlic,15,Chili,Mexican
+47,Black Bean Sweet Potato Chili,59,Curry Powder,8,Chili,Mexican
+47,Black Bean Sweet Potato Chili,3,Heirloom Tomato,200,Chili,Mexican
+47,Black Bean Sweet Potato Chili,5,Extra Virgin Olive Oil,20,Chili,Mexican
+47,Black Bean Sweet Potato Chili,15,Sea Salt,5,Chili,Mexican
+47,Black Bean Sweet Potato Chili,11,Black Pepper Powder,3,Chili,Mexican
+48,Lemon Garlic Shrimp Pasta,2,Free-range Chicken,300,Pasta,Italian
+48,Lemon Garlic Shrimp Pasta,13,Fresh Lemon Juice,40,Pasta,Italian
+48,Lemon Garlic Shrimp Pasta,1,Organic Garlic,15,Pasta,Italian
+48,Lemon Garlic Shrimp Pasta,5,Extra Virgin Olive Oil,30,Pasta,Italian
+48,Lemon Garlic Shrimp Pasta,27,Dried Basil,4,Pasta,Italian
+48,Lemon Garlic Shrimp Pasta,15,Sea Salt,4,Pasta,Italian
+48,Lemon Garlic Shrimp Pasta,11,Black Pepper Powder,2,Pasta,Italian
+48,Lemon Garlic Shrimp Pasta,71,Firm Tofu,200,Pasta,Italian
+49,Miso Glazed Eggplant,75,White Miso,40,Side Dish,Japanese
+49,Miso Glazed Eggplant,105,Soy Sauce,20,Side Dish,Japanese
+49,Miso Glazed Eggplant,10,Raw Honey,15,Side Dish,Japanese
+49,Miso Glazed Eggplant,8,Fresh Ginger Root,10,Side Dish,Japanese
+49,Miso Glazed Eggplant,1,Organic Garlic,8,Side Dish,Japanese
+49,Miso Glazed Eggplant,32,Sesame Seeds,10,Side Dish,Japanese
+49,Miso Glazed Eggplant,5,Extra Virgin Olive Oil,15,Side Dish,Japanese
+50,Turmeric Golden Milk,51,Whole Milk,300,Beverage,Indian
+50,Turmeric Golden Milk,85,Fresh Turmeric Root,10,Beverage,Indian
+50,Turmeric Golden Milk,29,Ground Cinnamon,2,Beverage,Indian
+50,Turmeric Golden Milk,10,Raw Honey,20,Beverage,Indian
+50,Turmeric Golden Milk,8,Fresh Ginger Root,5,Beverage,Indian
+50,Turmeric Golden Milk,37,Vanilla Extract,2,Beverage,Indian
+51,Butternut Squash Soup,25,White Onion,150,Soup,American
+51,Butternut Squash Soup,1,Organic Garlic,10,Soup,American
+51,Butternut Squash Soup,22,Sweet Potato,300,Soup,American
+51,Butternut Squash Soup,28,Coconut Milk,250,Soup,American
+51,Butternut Squash Soup,5,Extra Virgin Olive Oil,20,Soup,American
+51,Butternut Squash Soup,8,Fresh Ginger Root,8,Soup,American
+51,Butternut Squash Soup,29,Ground Cinnamon,2,Soup,American
+51,Butternut Squash Soup,15,Sea Salt,4,Soup,American
+51,Butternut Squash Soup,11,Black Pepper Powder,2,Soup,American
+52,Green Shakshuka,23,Organic Kale,150,Breakfast,Middle Eastern
+52,Green Shakshuka,6,Organic Spinach,150,Breakfast,Middle Eastern
+52,Green Shakshuka,25,White Onion,80,Breakfast,Middle Eastern
+52,Green Shakshuka,1,Organic Garlic,10,Breakfast,Middle Eastern
+52,Green Shakshuka,17,Pasteurized Eggs,240,Breakfast,Middle Eastern
+52,Green Shakshuka,41,Feta Cheese,60,Breakfast,Middle Eastern
+52,Green Shakshuka,5,Extra Virgin Olive Oil,20,Breakfast,Middle Eastern
+52,Green Shakshuka,15,Sea Salt,3,Breakfast,Middle Eastern
+52,Green Shakshuka,11,Black Pepper Powder,2,Breakfast,Middle Eastern
+53,Coconut Chia Seed Pudding,40,Chia Seeds,60,Dessert,International
+53,Coconut Chia Seed Pudding,28,Coconut Milk,400,Dessert,International
+53,Coconut Chia Seed Pudding,10,Raw Honey,25,Dessert,International
+53,Coconut Chia Seed Pudding,37,Vanilla Extract,5,Dessert,International
+53,Coconut Chia Seed Pudding,29,Ground Cinnamon,2,Dessert,International
+53,Coconut Chia Seed Pudding,19,Frozen Blueberries,60,Dessert,International
+54,Chickpea Pasta Salad,50,Canned Chickpeas,200,Salad,Mediterranean
+54,Chickpea Pasta Salad,3,Heirloom Tomato,150,Salad,Mediterranean
+54,Chickpea Pasta Salad,18,Red Bell Pepper,100,Salad,Mediterranean
+54,Chickpea Pasta Salad,1,Organic Garlic,8,Salad,Mediterranean
+54,Chickpea Pasta Salad,41,Feta Cheese,80,Salad,Mediterranean
+54,Chickpea Pasta Salad,5,Extra Virgin Olive Oil,25,Salad,Mediterranean
+54,Chickpea Pasta Salad,34,Balsamic Vinegar,15,Salad,Mediterranean
+54,Chickpea Pasta Salad,15,Sea Salt,3,Salad,Mediterranean
+54,Chickpea Pasta Salad,11,Black Pepper Powder,2,Salad,Mediterranean
+55,Korean BBQ Tofu,35,Plain Tofu,400,Main Course,Korean
+55,Korean BBQ Tofu,105,Soy Sauce,40,Main Course,Korean
+55,Korean BBQ Tofu,10,Raw Honey,25,Main Course,Korean
+55,Korean BBQ Tofu,1,Organic Garlic,15,Main Course,Korean
+55,Korean BBQ Tofu,8,Fresh Ginger Root,10,Main Course,Korean
+55,Korean BBQ Tofu,32,Sesame Seeds,10,Main Course,Korean
+55,Korean BBQ Tofu,5,Extra Virgin Olive Oil,20,Main Course,Korean
+55,Korean BBQ Tofu,125,Gochujang Paste,30,Main Course,Korean
+56,Moroccan Spiced Chickpeas,50,Canned Chickpeas,400,Main Course,Moroccan
+56,Moroccan Spiced Chickpeas,25,White Onion,120,Main Course,Moroccan
+56,Moroccan Spiced Chickpeas,3,Heirloom Tomato,200,Main Course,Moroccan
+56,Moroccan Spiced Chickpeas,1,Organic Garlic,12,Main Course,Moroccan
+56,Moroccan Spiced Chickpeas,59,Curry Powder,8,Main Course,Moroccan
+56,Moroccan Spiced Chickpeas,29,Ground Cinnamon,3,Main Course,Moroccan
+56,Moroccan Spiced Chickpeas,5,Extra Virgin Olive Oil,25,Main Course,Moroccan
+56,Moroccan Spiced Chickpeas,15,Sea Salt,4,Main Course,Moroccan
+56,Moroccan Spiced Chickpeas,111,Pomegranate Molasses,15,Main Course,Moroccan
+57,Blueberry Banana Smoothie Bowl,19,Frozen Blueberries,150,Breakfast,American
+57,Blueberry Banana Smoothie Bowl,51,Whole Milk,200,Breakfast,American
+57,Blueberry Banana Smoothie Bowl,12,Low-fat Yogurt,100,Breakfast,American
+57,Blueberry Banana Smoothie Bowl,10,Raw Honey,15,Breakfast,American
+57,Blueberry Banana Smoothie Bowl,14,Raw Almonds,20,Breakfast,American
+57,Blueberry Banana Smoothie Bowl,40,Chia Seeds,10,Breakfast,American
+57,Blueberry Banana Smoothie Bowl,47,Rolled Oats,30,Breakfast,American
+58,Rosemary Garlic Roasted Potatoes,22,Sweet Potato,400,Side Dish,European
+58,Rosemary Garlic Roasted Potatoes,1,Organic Garlic,15,Side Dish,European
+58,Rosemary Garlic Roasted Potatoes,57,Fresh Rosemary,8,Side Dish,European
+58,Rosemary Garlic Roasted Potatoes,5,Extra Virgin Olive Oil,30,Side Dish,European
+58,Rosemary Garlic Roasted Potatoes,15,Sea Salt,5,Side Dish,European
+58,Rosemary Garlic Roasted Potatoes,11,Black Pepper Powder,3,Side Dish,European
+59,Cashew Curry,94,Cashew Butter,100,Curry,Indian
+59,Cashew Curry,28,Coconut Milk,400,Curry,Indian
+59,Cashew Curry,25,White Onion,120,Curry,Indian
+59,Cashew Curry,1,Organic Garlic,12,Curry,Indian
+59,Cashew Curry,8,Fresh Ginger Root,15,Curry,Indian
+59,Cashew Curry,59,Curry Powder,10,Curry,Indian
+59,Cashew Curry,5,Extra Virgin Olive Oil,20,Curry,Indian
+59,Cashew Curry,15,Sea Salt,4,Curry,Indian
+59,Cashew Curry,85,Fresh Turmeric Root,8,Curry,Indian
+60,Maple Roasted Brussels Sprouts,5,Extra Virgin Olive Oil,25,Side Dish,American
+60,Maple Roasted Brussels Sprouts,24,Maple Syrup,30,Side Dish,American
+60,Maple Roasted Brussels Sprouts,15,Sea Salt,4,Side Dish,American
+60,Maple Roasted Brussels Sprouts,11,Black Pepper Powder,2,Side Dish,American
+60,Maple Roasted Brussels Sprouts,36,Roasted Peanuts,50,Side Dish,American
+61,Mushroom Barley Soup,78,Dried Shiitake Mushrooms,60,Soup,European
+61,Mushroom Barley Soup,25,White Onion,120,Soup,European
+61,Mushroom Barley Soup,1,Organic Garlic,10,Soup,European
+61,Mushroom Barley Soup,48,Pearl Barley,150,Soup,European
+61,Mushroom Barley Soup,5,Extra Virgin Olive Oil,20,Soup,European
+61,Mushroom Barley Soup,15,Sea Salt,4,Soup,European
+61,Mushroom Barley Soup,11,Black Pepper Powder,2,Soup,European
+61,Mushroom Barley Soup,95,Dried Bay Leaves,1,Soup,European
+61,Mushroom Barley Soup,27,Dried Basil,3,Soup,European
+62,Farro Salad with Roasted Vegetables,18,Red Bell Pepper,150,Salad,Mediterranean
+62,Farro Salad with Roasted Vegetables,3,Heirloom Tomato,150,Salad,Mediterranean
+62,Farro Salad with Roasted Vegetables,25,White Onion,100,Salad,Mediterranean
+62,Farro Salad with Roasted Vegetables,41,Feta Cheese,80,Salad,Mediterranean
+62,Farro Salad with Roasted Vegetables,5,Extra Virgin Olive Oil,25,Salad,Mediterranean
+62,Farro Salad with Roasted Vegetables,13,Fresh Lemon Juice,15,Salad,Mediterranean
+62,Farro Salad with Roasted Vegetables,15,Sea Salt,3,Salad,Mediterranean
+62,Farro Salad with Roasted Vegetables,11,Black Pepper Powder,2,Salad,Mediterranean
+63,Honey Sesame Chicken,2,Free-range Chicken,500,Main Course,Asian Fusion
+63,Honey Sesame Chicken,10,Raw Honey,40,Main Course,Asian Fusion
+63,Honey Sesame Chicken,105,Soy Sauce,30,Main Course,Asian Fusion
+63,Honey Sesame Chicken,1,Organic Garlic,12,Main Course,Asian Fusion
+63,Honey Sesame Chicken,8,Fresh Ginger Root,10,Main Course,Asian Fusion
+63,Honey Sesame Chicken,32,Sesame Seeds,15,Main Course,Asian Fusion
+63,Honey Sesame Chicken,5,Extra Virgin Olive Oil,20,Main Course,Asian Fusion
+63,Honey Sesame Chicken,15,Sea Salt,3,Main Course,Asian Fusion
+64,Almond Butter Energy Balls,14,Raw Almonds,150,Snack,International
+64,Almond Butter Energy Balls,94,Cashew Butter,100,Snack,International
+64,Almond Butter Energy Balls,47,Rolled Oats,80,Snack,International
+64,Almond Butter Energy Balls,40,Chia Seeds,20,Snack,International
+64,Almond Butter Energy Balls,10,Raw Honey,40,Snack,International
+64,Almond Butter Energy Balls,37,Vanilla Extract,5,Snack,International
+64,Almond Butter Energy Balls,29,Ground Cinnamon,3,Snack,International
+65,Chicken and Vegetable Stir Fry,2,Free-range Chicken,400,Stir-Fry,Asian Fusion
+65,Chicken and Vegetable Stir Fry,18,Red Bell Pepper,120,Stir-Fry,Asian Fusion
+65,Chicken and Vegetable Stir Fry,6,Organic Spinach,100,Stir-Fry,Asian Fusion
+65,Chicken and Vegetable Stir Fry,25,White Onion,100,Stir-Fry,Asian Fusion
+65,Chicken and Vegetable Stir Fry,1,Organic Garlic,12,Stir-Fry,Asian Fusion
+65,Chicken and Vegetable Stir Fry,8,Fresh Ginger Root,10,Stir-Fry,Asian Fusion
+65,Chicken and Vegetable Stir Fry,105,Soy Sauce,25,Stir-Fry,Asian Fusion
+65,Chicken and Vegetable Stir Fry,5,Extra Virgin Olive Oil,20,Stir-Fry,Asian Fusion
+65,Chicken and Vegetable Stir Fry,15,Sea Salt,3,Stir-Fry,Asian Fusion
+66,Tomato Basil Bruschetta,3,Heirloom Tomato,300,Appetizer,Italian
+66,Tomato Basil Bruschetta,1,Organic Garlic,10,Appetizer,Italian
+66,Tomato Basil Bruschetta,27,Dried Basil,5,Appetizer,Italian
+66,Tomato Basil Bruschetta,4,Whole Wheat Flour,200,Appetizer,Italian
+66,Tomato Basil Bruschetta,5,Extra Virgin Olive Oil,30,Appetizer,Italian
+66,Tomato Basil Bruschetta,15,Sea Salt,3,Appetizer,Italian
+66,Tomato Basil Bruschetta,11,Black Pepper Powder,2,Appetizer,Italian
+66,Tomato Basil Bruschetta,34,Balsamic Vinegar,10,Appetizer,Italian
+67,Coconut Lentil Curry,31,Red Lentils,200,Curry,Indian
+67,Coconut Lentil Curry,28,Coconut Milk,400,Curry,Indian
+67,Coconut Lentil Curry,25,White Onion,120,Curry,Indian
+67,Coconut Lentil Curry,1,Organic Garlic,15,Curry,Indian
+67,Coconut Lentil Curry,8,Fresh Ginger Root,15,Curry,Indian
+67,Coconut Lentil Curry,59,Curry Powder,12,Curry,Indian
+67,Coconut Lentil Curry,85,Fresh Turmeric Root,10,Curry,Indian
+67,Coconut Lentil Curry,5,Extra Virgin Olive Oil,20,Curry,Indian
+67,Coconut Lentil Curry,15,Sea Salt,4,Curry,Indian
+67,Coconut Lentil Curry,11,Black Pepper Powder,3,Curry,Indian
+68,Apple Cider Vinegar Dressing,68,Apple Cider Vinegar,30,Dressing,American
+68,Apple Cider Vinegar Dressing,5,Extra Virgin Olive Oil,60,Dressing,American
+68,Apple Cider Vinegar Dressing,10,Raw Honey,20,Dressing,American
+68,Apple Cider Vinegar Dressing,1,Organic Garlic,5,Dressing,American
+68,Apple Cider Vinegar Dressing,15,Sea Salt,2,Dressing,American
+68,Apple Cider Vinegar Dressing,11,Black Pepper Powder,1,Dressing,American
+68,Apple Cider Vinegar Dressing,44,Dijon Mustard,10,Dressing,American
+69,Greek Lemon Chicken Soup,2,Free-range Chicken,300,Soup,Greek
+69,Greek Lemon Chicken Soup,25,White Onion,100,Soup,Greek
+69,Greek Lemon Chicken Soup,1,Organic Garlic,10,Soup,Greek
+69,Greek Lemon Chicken Soup,13,Fresh Lemon Juice,40,Soup,Greek
+69,Greek Lemon Chicken Soup,17,Pasteurized Eggs,100,Soup,Greek
+69,Greek Lemon Chicken Soup,5,Extra Virgin Olive Oil,15,Soup,Greek
+69,Greek Lemon Chicken Soup,15,Sea Salt,4,Soup,Greek
+69,Greek Lemon Chicken Soup,11,Black Pepper Powder,2,Soup,Greek
+69,Greek Lemon Chicken Soup,27,Dried Basil,3,Soup,Greek
+69,Greek Lemon Chicken Soup,53,Dried Oregano,2,Soup,Greek
+70,Chocolate Avocado Mousse,33,Avocado,200,Dessert,International
+70,Chocolate Avocado Mousse,84,Cocoa Powder,30,Dessert,International
+70,Chocolate Avocado Mousse,10,Raw Honey,40,Dessert,International
+70,Chocolate Avocado Mousse,37,Vanilla Extract,5,Dessert,International
+70,Chocolate Avocado Mousse,28,Coconut Milk,100,Dessert,International
+71,Chickpea Flour Pancakes,140,Chickpea Flour,200,Breakfast,Indian
+71,Chickpea Flour Pancakes,25,White Onion,80,Breakfast,Indian
+71,Chickpea Flour Pancakes,1,Organic Garlic,8,Breakfast,Indian
+71,Chickpea Flour Pancakes,5,Extra Virgin Olive Oil,30,Breakfast,Indian
+71,Chickpea Flour Pancakes,15,Sea Salt,3,Breakfast,Indian
+71,Chickpea Flour Pancakes,59,Curry Powder,5,Breakfast,Indian
+71,Chickpea Flour Pancakes,85,Fresh Turmeric Root,5,Breakfast,Indian
+72,Turmeric Ginger Tea,85,Fresh Turmeric Root,15,Beverage,Indian
+72,Turmeric Ginger Tea,8,Fresh Ginger Root,15,Beverage,Indian
+72,Turmeric Ginger Tea,10,Raw Honey,20,Beverage,Indian
+72,Turmeric Ginger Tea,13,Fresh Lemon Juice,10,Beverage,Indian
+72,Turmeric Ginger Tea,29,Ground Cinnamon,2,Beverage,Indian
+73,Roasted Red Pepper Hummus,50,Canned Chickpeas,300,Appetizer,Middle Eastern
+73,Roasted Red Pepper Hummus,18,Red Bell Pepper,150,Appetizer,Middle Eastern
+73,Roasted Red Pepper Hummus,1,Organic Garlic,12,Appetizer,Middle Eastern
+73,Roasted Red Pepper Hummus,58,Tahini,50,Appetizer,Middle Eastern
+73,Roasted Red Pepper Hummus,13,Fresh Lemon Juice,30,Appetizer,Middle Eastern
+73,Roasted Red Pepper Hummus,5,Extra Virgin Olive Oil,40,Appetizer,Middle Eastern
+73,Roasted Red Pepper Hummus,15,Sea Salt,3,Appetizer,Middle Eastern
+73,Roasted Red Pepper Hummus,11,Black Pepper Powder,2,Appetizer,Middle Eastern
+74,Cucumber Mint Salad,25,White Onion,50,Salad,Mediterranean
+74,Cucumber Mint Salad,67,Fresh Mint Leaves,20,Salad,Mediterranean
+74,Cucumber Mint Salad,13,Fresh Lemon Juice,20,Salad,Mediterranean
+74,Cucumber Mint Salad,5,Extra Virgin Olive Oil,15,Salad,Mediterranean
+74,Cucumber Mint Salad,15,Sea Salt,3,Salad,Mediterranean
+74,Cucumber Mint Salad,11,Black Pepper Powder,2,Salad,Mediterranean
+75,Peanut Butter Banana Overnight Oats,47,Rolled Oats,80,Breakfast,American
+75,Peanut Butter Banana Overnight Oats,51,Whole Milk,250,Breakfast,American
+75,Peanut Butter Banana Overnight Oats,36,Roasted Peanuts,40,Breakfast,American
+75,Peanut Butter Banana Overnight Oats,94,Cashew Butter,30,Breakfast,American
+75,Peanut Butter Banana Overnight Oats,10,Raw Honey,15,Breakfast,American
+75,Peanut Butter Banana Overnight Oats,29,Ground Cinnamon,2,Breakfast,American
+76,Stuffed Bell Peppers,18,Red Bell Pepper,400,Main Course,American
+76,Stuffed Bell Peppers,7,Wild Rice,150,Main Course,American
+76,Stuffed Bell Peppers,55,Black Beans,150,Main Course,American
+76,Stuffed Bell Peppers,25,White Onion,80,Main Course,American
+76,Stuffed Bell Peppers,1,Organic Garlic,10,Main Course,American
+76,Stuffed Bell Peppers,3,Heirloom Tomato,150,Main Course,American
+76,Stuffed Bell Peppers,59,Curry Powder,5,Main Course,American
+76,Stuffed Bell Peppers,5,Extra Virgin Olive Oil,20,Main Course,American
+76,Stuffed Bell Peppers,15,Sea Salt,4,Main Course,American
+76,Stuffed Bell Peppers,11,Black Pepper Powder,2,Main Course,American
+77,Matcha Latte,158,Matcha Green Tea Powder,10,Beverage,Japanese
+77,Matcha Latte,51,Whole Milk,300,Beverage,Japanese
+77,Matcha Latte,10,Raw Honey,15,Beverage,Japanese
+77,Matcha Latte,37,Vanilla Extract,3,Beverage,Japanese
+78,Mediterranean Lamb Stew,4,Whole Wheat Flour,30,Stew,Mediterranean
+78,Mediterranean Lamb Stew,25,White Onion,150,Stew,Mediterranean
+78,Mediterranean Lamb Stew,1,Organic Garlic,15,Stew,Mediterranean
+78,Mediterranean Lamb Stew,3,Heirloom Tomato,200,Stew,Mediterranean
+78,Mediterranean Lamb Stew,5,Extra Virgin Olive Oil,30,Stew,Mediterranean
+78,Mediterranean Lamb Stew,53,Dried Oregano,5,Stew,Mediterranean
+78,Mediterranean Lamb Stew,15,Sea Salt,5,Stew,Mediterranean
+78,Mediterranean Lamb Stew,11,Black Pepper Powder,3,Stew,Mediterranean
+78,Mediterranean Lamb Stew,54,Red Wine,100,Stew,Mediterranean
+79,Asian Slaw with Ginger Dressing,93,Red Cabbage,200,Salad,Asian Fusion
+79,Asian Slaw with Ginger Dressing,8,Fresh Ginger Root,15,Salad,Asian Fusion
+79,Asian Slaw with Ginger Dressing,1,Organic Garlic,5,Salad,Asian Fusion
+79,Asian Slaw with Ginger Dressing,72,Rice Vinegar,30,Salad,Asian Fusion
+79,Asian Slaw with Ginger Dressing,5,Extra Virgin Olive Oil,20,Salad,Asian Fusion
+79,Asian Slaw with Ginger Dressing,105,Soy Sauce,15,Salad,Asian Fusion
+79,Asian Slaw with Ginger Dressing,10,Raw Honey,10,Salad,Asian Fusion
+79,Asian Slaw with Ginger Dressing,32,Sesame Seeds,10,Salad,Asian Fusion
+80,Baked Falafel,50,Canned Chickpeas,300,Main Course,Middle Eastern
+80,Baked Falafel,25,White Onion,80,Main Course,Middle Eastern
+80,Baked Falafel,1,Organic Garlic,15,Main Course,Middle Eastern
+80,Baked Falafel,4,Whole Wheat Flour,40,Main Course,Middle Eastern
+80,Baked Falafel,59,Curry Powder,8,Main Course,Middle Eastern
+80,Baked Falafel,13,Fresh Lemon Juice,20,Main Course,Middle Eastern
+80,Baked Falafel,5,Extra Virgin Olive Oil,25,Main Course,Middle Eastern
+80,Baked Falafel,15,Sea Salt,4,Main Course,Middle Eastern
+80,Baked Falafel,11,Black Pepper Powder,2,Main Course,Middle Eastern
+81,Vegetable Paella,7,Wild Rice,250,Main Course,Spanish
+81,Vegetable Paella,18,Red Bell Pepper,150,Main Course,Spanish
+81,Vegetable Paella,3,Heirloom Tomato,150,Main Course,Spanish
+81,Vegetable Paella,25,White Onion,120,Main Course,Spanish
+81,Vegetable Paella,1,Organic Garlic,15,Main Course,Spanish
+81,Vegetable Paella,6,Organic Spinach,100,Main Course,Spanish
+81,Vegetable Paella,5,Extra Virgin Olive Oil,30,Main Course,Spanish
+81,Vegetable Paella,15,Sea Salt,4,Main Course,Spanish
+81,Vegetable Paella,59,Curry Powder,8,Main Course,Spanish
+81,Vegetable Paella,39,Smoked Paprika,5,Main Course,Spanish
+82,Miso Soup,75,White Miso,40,Soup,Japanese
+82,Miso Soup,35,Plain Tofu,200,Soup,Japanese
+82,Miso Soup,8,Fresh Ginger Root,10,Soup,Japanese
+82,Miso Soup,137,Dried Kombu Seaweed,5,Soup,Japanese
+82,Miso Soup,110,Wakame Seaweed,10,Soup,Japanese
+82,Miso Soup,15,Sea Salt,2,Soup,Japanese
+83,Pumpkin Spice Granola,47,Rolled Oats,300,Breakfast,American
+83,Pumpkin Spice Granola,14,Raw Almonds,100,Breakfast,American
+83,Pumpkin Spice Granola,24,Maple Syrup,80,Breakfast,American
+83,Pumpkin Spice Granola,5,Extra Virgin Olive Oil,50,Breakfast,American
+83,Pumpkin Spice Granola,29,Ground Cinnamon,5,Breakfast,American
+83,Pumpkin Spice Granola,89,Ground Cardamom,2,Breakfast,American
+83,Pumpkin Spice Granola,15,Sea Salt,3,Breakfast,American
+84,Caprese Skewers,3,Heirloom Tomato,200,Appetizer,Italian
+84,Caprese Skewers,41,Feta Cheese,150,Appetizer,Italian
+84,Caprese Skewers,27,Dried Basil,5,Appetizer,Italian
+84,Caprese Skewers,5,Extra Virgin Olive Oil,20,Appetizer,Italian
+84,Caprese Skewers,34,Balsamic Vinegar,15,Appetizer,Italian
+84,Caprese Skewers,15,Sea Salt,2,Appetizer,Italian
+84,Caprese Skewers,11,Black Pepper Powder,1,Appetizer,Italian
+85,Braised Red Cabbage,93,Red Cabbage,400,Side Dish,European
+85,Braised Red Cabbage,25,White Onion,100,Side Dish,European
+85,Braised Red Cabbage,68,Apple Cider Vinegar,30,Side Dish,European
+85,Braised Red Cabbage,10,Raw Honey,20,Side Dish,European
+85,Braised Red Cabbage,5,Extra Virgin Olive Oil,20,Side Dish,European
+85,Braised Red Cabbage,15,Sea Salt,3,Side Dish,European
+85,Braised Red Cabbage,11,Black Pepper Powder,2,Side Dish,European
+85,Braised Red Cabbage,29,Ground Cinnamon,2,Side Dish,European
+86,Za'atar Roasted Carrots,5,Extra Virgin Olive Oil,25,Side Dish,Middle Eastern
+86,Za'atar Roasted Carrots,143,Za'atar Spice Blend,10,Side Dish,Middle Eastern
+86,Za'atar Roasted Carrots,15,Sea Salt,3,Side Dish,Middle Eastern
+86,Za'atar Roasted Carrots,13,Fresh Lemon Juice,15,Side Dish,Middle Eastern
+87,Cauliflower Rice Bowl,35,Plain Tofu,200,Bowl,International
+87,Cauliflower Rice Bowl,6,Organic Spinach,100,Bowl,International
+87,Cauliflower Rice Bowl,18,Red Bell Pepper,80,Bowl,International
+87,Cauliflower Rice Bowl,33,Avocado,100,Bowl,International
+87,Cauliflower Rice Bowl,60,Flax Seeds,15,Bowl,International
+87,Cauliflower Rice Bowl,5,Extra Virgin Olive Oil,20,Bowl,International
+87,Cauliflower Rice Bowl,15,Sea Salt,3,Bowl,International
+87,Cauliflower Rice Bowl,11,Black Pepper Powder,2,Bowl,International
+88,Beet and Goat Cheese Salad,41,Feta Cheese,100,Salad,European
+88,Beet and Goat Cheese Salad,6,Organic Spinach,150,Salad,European
+88,Beet and Goat Cheese Salad,14,Raw Almonds,50,Salad,European
+88,Beet and Goat Cheese Salad,34,Balsamic Vinegar,20,Salad,European
+88,Beet and Goat Cheese Salad,5,Extra Virgin Olive Oil,25,Salad,European
+88,Beet and Goat Cheese Salad,15,Sea Salt,3,Salad,European
+88,Beet and Goat Cheese Salad,11,Black Pepper Powder,2,Salad,European
+89,Sweet Potato Breakfast Hash,22,Sweet Potato,300,Breakfast,American
+89,Sweet Potato Breakfast Hash,25,White Onion,100,Breakfast,American
+89,Sweet Potato Breakfast Hash,18,Red Bell Pepper,80,Breakfast,American
+89,Sweet Potato Breakfast Hash,1,Organic Garlic,10,Breakfast,American
+89,Sweet Potato Breakfast Hash,17,Pasteurized Eggs,200,Breakfast,American
+89,Sweet Potato Breakfast Hash,5,Extra Virgin Olive Oil,25,Breakfast,American
+89,Sweet Potato Breakfast Hash,15,Sea Salt,4,Breakfast,American
+89,Sweet Potato Breakfast Hash,11,Black Pepper Powder,2,Breakfast,American
+89,Sweet Potato Breakfast Hash,39,Smoked Paprika,3,Breakfast,American
